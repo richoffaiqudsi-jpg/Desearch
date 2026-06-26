@@ -1,109 +1,124 @@
-# Androgen Receptor Drives Maturation Independent of Estradiol (E2) — Study Collection
+# Androgen / AR and Skeletal Maturation — HUMAN DATA Collection
 
-Thesis: androgens act **directly via the androgen receptor (AR)** to drive skeletal/bone
-maturation, **not solely** through aromatization to estradiol (E2).
+Focus: **human** evidence on androgens & non-aromatizable anabolic-androgenic steroids
+(NAAS) and the special "experiments of nature" (aromatase deficiency, androgen
+insensitivity). Excludes oxandrolone/Anavar and the studies already in your list.
 
-> **Honest framing:** This is a genuinely contested area. The *prevailing* clinical view
-> (from aromatase deficiency, complete androgen insensitivity, and ERα data) holds that
-> estrogen is the dominant driver of epiphyseal fusion. The strongest support for the
-> AR-direct thesis comes from **non-aromatizable androgens** (DHT, fluoxymesterone,
-> 11-oxygenated androgens), **in-vitro chondrocyte/bone-cell** work, and **animal** studies
-> where androgen effects appear in the absence of (or independent of) estrogen action.
-> Each entry below is tagged **[STRONG]**, **[SUPPORTIVE]**, or **[NUANCED]** so the
-> collection is defensible rather than cherry-picked.
+## ⚠️ Read this first — honest framing (so the argument survives scrutiny)
 
----
+The strong version of the claim ("AR closes growth plates independent of E2") is **not**
+supported by human data — in fact the aromatase-deficiency cases below are the single
+biggest argument *against* it: those men keep **unfused epiphyses despite normal/high
+testosterone**, and only **estrogen** fuses the plates.
 
-## Your existing list (for reference)
+The **defensible** version, which the human data *does* support:
 
-3088241 · 11336922 · 15557106 · 868816 · 7158332 · 14063666 · 14472402 · 9211678 · 8090165 · 13740537
+1. **Androgens/AR drive maturation *tempo* up through mid-puberty (~bone age 13–14).**
+   Aromatase-deficient men still reached BA ~14 on their own androgen alone.
+2. **Loss of AR (CAIS) delays/feminizes maturation tempo** even with estrogen present.
+3. **Terminal epiphyseal *fusion* requires estrogen.** (Don't fight this point — concede
+   it and argue tempo/early-mid maturation instead.)
 
----
+Each entry is tagged **[SUPPORTS tempo claim]**, **[AGAINST fusion claim / context]**,
+or **[NUANCED]**.
 
-## New studies to add — older studies & hidden gems
-
-### Classic / historical (the "hidden gems")
-
-- **PMID 13286320** — Sobel EH, Raymond CS, Quinn KV, Talbot NB.
-  *The use of methyltestosterone to stimulate growth: relative influence on skeletal
-  maturation and linear growth.* J Clin Endocrinol Metab. 1956;16(2):241–248.
-  **[SUPPORTIVE]** Classic dissociation study — androgen advances skeletal maturation
-  measured separately from linear growth. Pairs directly with your fluoxymesterone
-  dissociation paper (13740537).
-
-- **Endocrinology. 1940;26(3):377** — *The effects of testosterone propionate on
-  epiphyseal closure, sodium and chloride balance and on sperm counts.*
-  **[SUPPORTIVE]** One of the earliest demonstrations that high-dose testosterone
-  propionate accelerates epiphyseal union in eunuchoidism. *Note: pre-1946 — likely has
-  no PubMed PMID; cite by journal/volume. Worth tracking down the full text as a true
-  "hidden gem."*
-
-### Non-aromatizable / 5α-reductase–dependent (the strongest mechanistic case)
-
-- **PMID 15723286** — Raz P, Nasatzky E, Boyan BD, Ornoy A, Schwartz Z.
-  *Sexual dimorphism of growth plate prehypertrophic and hypertrophic chondrocytes in
-  response to testosterone requires metabolism to dihydrotestosterone (DHT) by steroid
-  5-alpha reductase type 1.* J Cell Biochem. 2005;95(1):108–119.
-  **[STRONG]** Testosterone's growth-plate effect in male chondrocytes **requires
-  conversion to DHT (non-aromatizable)**, not to estrogen — direct evidence for an
-  AR/DHT maturation pathway.
-
-- **PMID 2717619** — Sömjen D, Weisman Y, Harell A, Berger E, Kaye AM.
-  *Direct and sex-specific stimulation by sex steroids of creatine kinase activity and
-  DNA synthesis in rat bone.* Proc Natl Acad Sci USA. 1989;86(9):3361–3365.
-  **[STRONG]** In male rat diaphyseal bone, **testosterone or DHT stimulated CK activity
-  and DNA synthesis (~100%) while E2 was ineffective** — a clean dissociation of androgen
-  action from estrogen.
-
-- **PMID 3830056** — Corvol MT, Carrascosa A, Tsagris L, Blanchard O, Rappaport R.
-  *Evidence for a direct in vitro action of sex steroids on rabbit cartilage cells during
-  skeletal growth: influence of age and sex.* Endocrinology. 1987;120(4):1422–1429.
-  **[SUPPORTIVE]** Both testosterone and DHT directly stimulate cartilage cells in vitro
-  (age/sex dependent) — direct chondrocyte action.
-
-- **PMID 36263329** — Buchanan K, Greenup E, Hurst ACE, Sunil B, Ashraf AP.
-  *Case report: 11-ketotestosterone may potentiate advanced bone age as seen in some
-  cases of Wiedemann-Steiner Syndrome.* Front Endocrinol. 2022;13:1004114.
-  **[SUPPORTIVE]** Modern gem — implicates 11-oxygenated androgen (11-KT, a poor aromatase
-  substrate) in advanced bone age, suggesting non-estrogenic androgenic drive.
-
-### Mechanistic / receptor basis
-
-- **PMID 12740020** — Nilsson O, Chrysis D, Pajulo O, Boman A, Holst M, Rubinstein J,
-  Ritzén EM, Sävendahl L.
-  *Localization of estrogen receptors-alpha and -beta and androgen receptor in the human
-  growth plate at different pubertal stages.* J Endocrinol. 2003;177(2):319–326.
-  **[SUPPORTIVE]** Demonstrates **AR is expressed in the human growth plate** (most
-  abundant in resting and hypertrophic zones) across puberty — the anatomical substrate
-  required for any direct AR effect on maturation.
-
-### Animal / in-vivo direct effect
-
-- **PMID 135467** — Tarsoly E.
-  *Effect of testosterone administration on the epiphyseal cartilage of hypophysectomized
-  rats.* Acta Histochem. 1976.
-  **[NUANCED]** Testosterone exerts a "peripheral direct effect" on epiphyseal cartilage
-  cells (accelerated maturation/ageing). Caveat: some enzyme changes were pituitary-
-  dependent — include with that qualification.
-
-### Dissociation of growth vs. maturation (fits your fluoxymesterone theme)
-
-- **PMID 1133662** — Marti-Henneberg C, Niirianen AK, Rappaport R.
-  *Oxandrolone treatment of constitutional short stature in boys during adolescence:
-  effect on linear growth, bone age, pubic hair, and testicular development.*
-  J Pediatr. 1975;86(5):783–788.
-  **[NUANCED]** A non-aromatizable androgen that did **not** disproportionately advance
-  skeletal maturation — useful as the dissociation counterpoint (androgen effects on
-  growth vs. maturation are separable).
+You already have: 9211678 (Carani aromatase-def. NEJM), 8090165 (Smith ERα-resistance
+NEJM), 11336922 (Gunther — androgen-accelerated bone maturation NOT blocked by the
+estrogen-receptor blocker Faslodex), plus 3088241 / 15557106 / 868816 / 7158332 /
+14063666 / 14472402 / 13740537.
 
 ---
 
-## Suggested next search angles (to keep growing the collection)
+## A. Aromatase-deficient men given TESTOSTERONE (the "no-estrogen" experiment)
 
-- DHT/5α-reductase deficiency cohorts and bone age (5α-RD2 deficiency).
-- Sömjen/Kaye creatine-kinase series (additional sex-specific bone/cartilage papers).
-- Boyan/Schwartz "rapid membrane (non-genomic) DHT responses in growth plate chondrocytes."
-- Anabolic-steroid bone-age studies in constitutional delay (1960s–70s, e.g.
-  methandrostenolone, nandrolone) for more historical dissociation data.
+> These are the cases you asked for. Be honest: in all of them testosterone did **not**
+> close epiphyses or normalize bone — estrogen did. Useful as the boundary of the claim
+> (androgen drives BA only to ~14; fusion needs E2), NOT as proof of E2-independent maturation.
 
-*Compiled 2026-06-26. Verify each abstract before citing — annotations summarize PubMed records.*
+- **PMID 8530621** — Morishima A, Grumbach MM, Simpson ER, Fisher C, Qin K.
+  *Aromatase deficiency in male and female siblings caused by a novel mutation and the
+  physiological role of estrogens.* J Clin Endocrinol Metab. 1995;80(12):3689–98.
+  The **founding male case**: normal puberty/virilization on his own testosterone, but
+  tall, **unfused epiphyses, delayed bone age**; estrogen restored bone mass.
+  **[AGAINST fusion claim / context]**
+
+- **PMID 9718379** — Bilezikian JP, Morishima A, Bell J, Grumbach MM.
+  *Increased bone mass as a result of estrogen therapy in a man with aromatase deficiency.*
+  N Engl J Med. 1998;339(9):599–603.
+  **Estrogen** achieved **complete epiphyseal closure in 9 months** — testosterone over
+  prior years had not. **[AGAINST fusion claim / context]**
+
+- **PMID 14715828** — Maffei L, et al.
+  *Dysmetabolic syndrome in a man with a novel mutation of the aromatase gene: effects of
+  testosterone, alendronate, and estradiol treatment.* J Clin Endocrinol Metab. 2004;89(1):61–70.
+  Direct head-to-head: testosterone did not normalize bone; estradiol did. **[NUANCED]**
+
+- **PMID 17400043** — Rochira V, Maffei L, et al.
+  *Skeletal effects of long-term estrogen and testosterone replacement treatment in a man
+  with congenital aromatase deficiency: evidence of a priming effect of estrogen for sex
+  steroid action on bone.* Bone. 2007;40(6):1662–8.
+  Cleanest comparison: aBMD "little modified by T," rose on estradiol; concludes
+  **"testosterone needs estrogens as a permissive factor."** **[AGAINST / NUANCED]**
+
+## B. Androgen-receptor–defective humans (CAIS) — supports the TEMPO claim
+
+> CAIS = humans with no functional AR. If AR independently shapes maturation tempo, CAIS
+> tempo should look female/delayed despite a male genome + estrogen. It does.
+
+- **PMID 16491011** — Papadimitriou DT, et al.
+  *Puberty in subjects with complete androgen insensitivity syndrome.* Horm Res.
+  2006;65(3):126–31. Breast development 11.1 yr, **PHV 12.3 yr (female-typical), bone-age
+  markers female-paced** — i.e. without AR, maturation tempo defaults to female timing.
+  **[SUPPORTS tempo claim]**
+
+- **PMID 17077942** — Danilovic DL, et al.
+  *Height and bone mineral density in androgen insensitivity syndrome with mutations in
+  the androgen receptor gene.* Osteoporos Int. 2007;18(3):369–74. CAIS final height
+  **intermediate** between male and female predictions — AR contributes to the male growth/
+  maturation pattern. *(verify PMID; citation is exact.)* **[SUPPORTS tempo claim]**
+
+- **PMID 35629193** — *Growth Curves of Chinese Children with Androgen Insensitivity
+  Syndrome: A Multicenter Registry Study.* J Clin Endocrinol Metab. 2022. Largest growth
+  dataset in AR-deficient humans. **[SUPPORTS tempo claim]**
+
+- **PMID 9973670** — *Altered bone mineral density in patients with complete androgen
+  insensitivity syndrome.* (AR-null bone phenotype despite estrogen.) **[NUANCED]**
+
+## C. Non-aromatizable anabolic steroids (NAAS) in humans — other than Anavar
+
+- **PMID 12840880** — *Growth-promoting effect of recombinant human growth hormone and
+  stanozolol in girls with Turner syndrome.* Stanozolol is **non-aromatizable**; height age
+  rose +2.5 yr while **bone age only +1.0 yr** — androgen-driven growth with *dissociated*
+  (not runaway) skeletal maturation. **[SUPPORTS tempo claim / dissociation]**
+
+- **Satoh M, Yano H, Tanaka T, et al.** *The effect of stanozolol on final height and
+  skeletal maturation in Turner's syndrome.* Pediatr Res. 1993;33(S5):S259 (abstract).
+  Stanozolol improved final height **without accelerating bone maturation beyond BA 12**.
+  *(conference abstract — may lack a clean PMID; cite by journal.)* **[SUPPORTS / dissociation]**
+
+- **Stanozolol-induced GnRH-independent precocious puberty** (Sengupta N, et al., case
+  report): a boy on stanozolol for aplastic anemia developed **phallic growth + pubic hair
+  with advancing bone age but no testicular enlargement** — a non-aromatizable androgen
+  driving virilization/maturation directly. *(verify PubMed indexing.)* **[SUPPORTS tempo]**
+
+- **PMID 4003064** — *Constitutional delay of growth and puberty in boys: the effect of a
+  short course of treatment with fluoxymesterone.* Human fluoxymesterone (non-aromatizable)
+  growth/BA data — optional, since you already hold a fluoxymesterone paper. **[NUANCED]**
+
+- **Mesterolone (Proviron)** — non-aromatizable 1α-methyl-DHT, clinically used for delayed
+  puberty; reports note growth velocity ↑ and bone age advancing on treatment, but I could
+  **not** find a dedicated controlled bone-age trial with a clean PMID. Flagged as a gap to
+  chase down (older European pediatric-endocrine journals). **[gap]**
+
+---
+
+## D. Best leads still worth digging (older / hard-to-find)
+
+- Mesterolone delayed-puberty bone-age series (1970s–80s European peds-endo journals).
+- Methenolone / oxymetholone in children (aplastic anemia, Fanconi) — bone-age follow-up.
+- DHT (stanolone / Andractim percutaneous) in micropenis & 5α-reductase-2 deficiency —
+  pre/peri/post-pubertal bone-age data (case series exist; chase primary papers).
+- Endocrinology 1940;26(3):377 — testosterone propionate accelerates epiphyseal closure in
+  eunuchoidism (pre-PubMed; likely no PMID — a true buried gem).
+
+*Compiled 2026-06-26. Tags reflect honest reading of each abstract; verify before citing.*
